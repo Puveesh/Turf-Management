@@ -1,0 +1,2 @@
+test case Day 8 both portal and local phase 1 over
+test case Day 9 both portal and local 
